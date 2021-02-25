@@ -1,9 +1,6 @@
 # KakaoEmojiDecode
 
 Usage: 
-  python test.py [Emoticon Path]
+  python test.py
   
-  ex) python test.py C:\Users\Username\AppData\Local\Kakao\KakaoTalk\EmoticonEx\x2.0
-  
-Output:
-  [Emoticon Path]\Decode
+  ex) python test.py
